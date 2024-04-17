@@ -1,0 +1,28 @@
+.btns {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+.SignupBody{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(184, 181, 181);
+  margin-top: 50px; 
+
+}
+
+input{
+  margin: 10px 0px;
+  padding: 5px 40px;
+
+}
+#form{
+  background-color: white;
+  box-shadow: 1px 0px 1px 4px rgb(160, 154, 154);
+  padding: 50px 70px;
+}
